@@ -1,0 +1,6 @@
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\BordersMarginsPadding\bin\BordersMarginsPadding.dll.config
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\BordersMarginsPadding\bin\BordersMarginsPadding.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\BordersMarginsPadding\bin\BordersMarginsPadding.pdb
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\BordersMarginsPadding\obj\Debug\BordersMarginsPadding.csprojResolveAssemblyReference.cache
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\BordersMarginsPadding\obj\Debug\BordersMarginsPadding.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\BordersMarginsPadding\obj\Debug\BordersMarginsPadding.pdb

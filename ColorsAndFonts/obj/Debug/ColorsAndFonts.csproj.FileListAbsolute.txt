@@ -1,0 +1,6 @@
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\ColorsAndFonts\bin\ColorsAndFonts.dll.config
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\ColorsAndFonts\bin\ColorsAndFonts.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\ColorsAndFonts\bin\ColorsAndFonts.pdb
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\ColorsAndFonts\obj\Debug\ColorsAndFonts.csprojResolveAssemblyReference.cache
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\ColorsAndFonts\obj\Debug\ColorsAndFonts.dll
+D:\Github\GrandCircusASPNET\SPAModule\Labs\W3.D2 CSS\CssLabs\ColorsAndFonts\obj\Debug\ColorsAndFonts.pdb
